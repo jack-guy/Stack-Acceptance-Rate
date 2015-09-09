@@ -1,0 +1,23 @@
+{
+  "name": "stack-exchange-acceptance",
+  "version": "0.1.0",
+  "description": "Chrome extension that injects question asker acceptance rate into any Stack Exchange website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harangue/Stack-Acceptance-Rate.git"
+  },
+  "author": "Jack Guy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harangue/Stack-Acceptance-Rate/issues"
+  },
+  "homepage": "https://github.com/harangue/Stack-Acceptance-Rate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2"
+  }
+}

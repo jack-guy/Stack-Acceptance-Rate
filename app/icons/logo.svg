@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3606">
+      <stop
+         style="stop-color:#65baf3;stop-opacity:1;"
+         offset="0"
+         id="stop3614" />
+      <stop
+         id="stop3618"
+         offset="0.75"
+         style="stop-color:#65baf3;stop-opacity:1;" />
+      <stop
+         style="stop-color:#36a5ef;stop-opacity:1;"
+         offset="0.75"
+         id="stop3620" />
+      <stop
+         id="stop3610"
+         offset="1"
+         style="stop-color:#36a5ef;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3666">
+      <stop
+         id="stop3668"
+         offset="0"
+         style="stop-color:#518fd9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#518fd9;stop-opacity:1;"
+         offset="0.75"
+         id="stop3670" />
+      <stop
+         id="stop3672"
+         offset="0.75"
+         style="stop-color:#1d6dcd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#1d6dcd;stop-opacity:1;"
+         offset="1"
+         id="stop3674" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3686">
+      <stop
+         style="stop-color:#5479ae;stop-opacity:1;"
+         offset="0"
+         id="stop3688" />
+      <stop
+         id="stop3690"
+         offset="0.75"
+         style="stop-color:#5479ae;stop-opacity:1;" />
+      <stop
+         style="stop-color:#205196;stop-opacity:1;"
+         offset="0.75"
+         id="stop3692" />
+      <stop
+         id="stop3694"
+         offset="1"
+         style="stop-color:#205196;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3714" />
+    <inkscape:perspective
+       id="perspective3748"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 32 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="346.16178"
+     inkscape:cy="616.72319"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-7"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-7"
+       transform="translate(270.45212,426.33408)">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3811"
+         width="56.5"
+         height="56.5"
+         x="3.6921871"
+         y="3.4575331"
+         inkscape:export-filename="C:\Users\Jack\git\stack-exchange-acceptance\app\icons\iconWebstore.png"
+         inkscape:export-xdpi="90.158165"
+         inkscape:export-ydpi="90.158165" />
+      <g
+         id="g3780"
+         transform="translate(-0.50507627,-3.1757051)"
+         inkscape:export-filename="C:\Users\Jack\git\stack-exchange-acceptance\app\icons\iconWebstore.png"
+         inkscape:export-xdpi="90.158165"
+         inkscape:export-ydpi="90.158165">
+        <g
+           inkscape:export-ydpi="203.8938"
+           inkscape:export-xdpi="203.8938"
+           inkscape:export-filename="C:\Users\Jack\git\stack-exchange-acceptance\icons\icon128.png"
+           transform="matrix(2.148818,0,0,2.148818,-2.1929527,-68.873254)"
+           id="g3813">
+          <path
+             style="fill:#84d2e9;fill-opacity:1;stroke:none"
+             d="m 15.806912,3.53338 c 4.251199,0.01013 28.857308,0.08997 33.006482,0.127862 7.000559,0.06383 5.820905,8.955227 5.820905,8.955227 l -44.264483,8e-5 C 10.51166,8.15688 10.297876,4.679599 15.806912,3.53338 z"
+             id="path2830"
+             sodipodi:nodetypes="csccc"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#77b6ff;fill-opacity:1;stroke:none"
+             id="rect3604"
+             width="44.392414"
+             height="9.2111044"
+             x="10.305878"
+             y="14.791447"
+             ry="0" />
+          <rect
+             style="fill:#0b7bff;fill-opacity:1;stroke:none"
+             id="rect3604-6"
+             width="44.392414"
+             height="10.234562"
+             x="10.113928"
+             y="27.136799"
+             ry="0" />
+          <path
+             style="fill:#0057be;fill-opacity:1;stroke:none"
+             d="m 10.109411,40.852056 c 0,0 -0.965753,7.717822 6.337176,8.225116 2.762185,0.191894 19.957401,0.255866 19.957401,0.255866 l -1.791061,10.618366 10.42647,-10.602378 c 1.095582,0.01216 1.509462,-0.05998 4.890734,-0.04782 5.651563,0.02027 4.761716,-8.155674 4.761716,-8.155674 l -44.130137,-0.383789 0,-6.1e-5 -0.452299,0.09038 z"
+             id="path3676"
+             sodipodi:nodetypes="cscccscccc"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           inkscape:export-ydpi="203.8938"
+           inkscape:export-xdpi="203.8938"
+           inkscape:export-filename="C:\Users\Jack\git\stack-exchange-acceptance\icons\icon128.png"
+           sodipodi:linespacing="125%"
+           id="text3807"
+           y="23.849699"
+           x="29.804735"
+           style="font-size:101.48266602px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00234c;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#00234c;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+             y="23.849699"
+             x="29.804735"
+             id="tspan3809"
+             sodipodi:role="line">%</tspan></text>
+      </g>
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:0.22458979000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3778"
+         width="127.71924"
+         height="127.77541"
+         x="3.5799222"
+         y="-67.728043"
+         inkscape:export-filename="C:\Users\Jack\git\stack-exchange-acceptance\app\icons\iconWebstore.png"
+         inkscape:export-xdpi="90.158165"
+         inkscape:export-ydpi="90.158165" />
+    </g>
+  </g>
+</svg>
