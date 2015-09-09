@@ -6,7 +6,10 @@ The extension is available on the [Chrome web store](https://chrome.google.com/w
 
 ##Building
 Install and run gulp
-`npm install gulp -g`
-`gulp`
+```
+npm install gulp -g
+npm install --dev
+gulp
+```
 
 Alternatively, simply zip up the `/app` folder.
